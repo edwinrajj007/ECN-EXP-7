@@ -25,17 +25,19 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 <img width="1600" height="880" alt="image" src="https://github.com/user-attachments/assets/908ac7e3-a2f4-4e0e-9734-ec43d80764fa" />
+<img width="1600" height="1224" alt="image" src="https://github.com/user-attachments/assets/755c84c0-3912-48ae-a730-c16363785664" />
 
 <img width="1600" height="797" alt="image" src="https://github.com/user-attachments/assets/cef4fcbc-3550-446a-9881-ff25788f54e1" />
+<img width="1584" height="1240" alt="image" src="https://github.com/user-attachments/assets/6e6c4310-3f64-4219-a34e-322a579b8f58" />
 
 
 
 
 **Model graph:**
-<img width="1600" height="1224" alt="image" src="https://github.com/user-attachments/assets/755c84c0-3912-48ae-a730-c16363785664" />
+<img width="1600" height="635" alt="image" src="https://github.com/user-attachments/assets/5eb887a7-4650-4483-9725-96fc140812e2" />
 
 
-<img width="1584" height="1240" alt="image" src="https://github.com/user-attachments/assets/6e6c4310-3f64-4219-a34e-322a579b8f58" />
+<img width="1526" height="644" alt="image" src="https://github.com/user-attachments/assets/02b5d533-5bdf-428e-b4c8-fc61bcd15cdb" />
 
 
 **TABULATION:**
