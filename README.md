@@ -24,24 +24,27 @@ Frequency Response is a plot of output voltage or current of a resonance circuit
 frequency response is shown in figure 2.The two additional frequencies  f 1 and f 2 are also indicated which are called half power frequencies. These frequencies locate those points on the curve at which the voltage response is 1/√2 or 0.707 times the maximum value. They are used to measure the band-width of the response curve. This is called the half – power bandwidth of the resonant circuit and is defined as:  ΒW =f2 - f1
 
 **CIRCUIT DIAGRAM:**
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/32375104-4a5b-410f-b07a-5194ad581aee" />
+<img width="1600" height="880" alt="image" src="https://github.com/user-attachments/assets/908ac7e3-a2f4-4e0e-9734-ec43d80764fa" />
 
+<img width="1600" height="797" alt="image" src="https://github.com/user-attachments/assets/cef4fcbc-3550-446a-9881-ff25788f54e1" />
 
 
 
 
 **Model graph:**
+<img width="1600" height="1224" alt="image" src="https://github.com/user-attachments/assets/755c84c0-3912-48ae-a730-c16363785664" />
 
 
+<img width="1584" height="1240" alt="image" src="https://github.com/user-attachments/assets/6e6c4310-3f64-4219-a34e-322a579b8f58" />
 
 
 **TABULATION:**
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/a9f518cf-54e9-4e61-8110-f976ddbf9858" />
+<img width="1600" height="994" alt="image" src="https://github.com/user-attachments/assets/d9682bab-82eb-4a90-810f-8d377076622f" />
 
 
 **Calculation:**
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/38ee596d-876f-418e-8eb0-cfee8c27778e" />
 
+<img width="915" height="1600" alt="image" src="https://github.com/user-attachments/assets/ce38fdb1-8912-4067-b65b-f2be893a54c5" />
 
 
 
@@ -59,8 +62,10 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **Mark split up:**
 
+<img width="1287" height="767" alt="image" src="https://github.com/user-attachments/assets/25fba792-9b0b-424f-9ae8-cded404d0b42" />
+
 **RESULT:**
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/62323d05-b73b-4e86-a321-61af42fe4913" />
+<img width="1401" height="819" alt="image" src="https://github.com/user-attachments/assets/6d7a3ca4-31ce-4a53-9644-00604e3f4d30" />
 
 
 Thus the phenomenon of resonance in RLC circuit was studied and the following were determined using Multisim Simulator.
